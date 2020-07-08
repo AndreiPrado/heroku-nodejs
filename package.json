@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "nodejs-angular",
+  "version": "0.0.1",
+  "description": "A barebones Node.js app using Express 4 and Angular 8",
   "engines": {
     "node": "12.x"
   },
@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/AndreiPrado/nodejs-angular.git"
   },
   "keywords": [
     "node",
-    "heroku",
+    "angular",
     "express"
   ],
   "license": "MIT"
