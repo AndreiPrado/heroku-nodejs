@@ -1,7 +1,0 @@
-{
-  "name": "Node.js + Angular 8",
-  "description": "A barebones Node.js app using Express 4 and Angular 8",
-  "repository": "https://github.com/AndreiPrado/nodejs-angular.git",
-  "keywords": ["node", "express", "angular"],
-  "image": "nodejs"
-}

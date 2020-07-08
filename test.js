@@ -26,3 +26,36 @@ test('responds to requests', (t) => {
     })();
   });
 });
+
+
+// {
+//   "name": "nodejs-angular",
+//   "version": "0.0.1",
+//   "description": "A barebones Node.js app using Express 4 and Angular 8",
+//   "engines": {
+//     "node": "12.x"
+//   },
+//   "main": "index.js",
+//   "scripts": {
+//     "start": "node index.js",
+//     "test": "node test.js"
+//   },
+//   "dependencies": {
+//     "ejs": "^2.5.6",
+//     "express": "^4.15.2"
+//   },
+//   "devDependencies": {
+//     "got": "^11.3.0",
+//     "tape": "^4.7.0"
+//   },
+//   "repository": {
+//     "type": "git",
+//     "url": "https://github.com/AndreiPrado/nodejs-angular.git"
+//   },
+//   "keywords": [
+//     "node",
+//     "angular",
+//     "express"
+//   ],
+//   "license": "MIT"
+// }
